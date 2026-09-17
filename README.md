@@ -14,7 +14,11 @@ September – December 2026. One folder per session: `week-1`, `week-2`, …
 | `week-5` |  |  |
 | `week-6` |  |  |
 | `week-7` |  |  |
-
+| `week-8` |  |  |
+| `week-9` |  |  |
+| `week-10` |  |  |
+| `week-11` |  |  |
+| `week-12` |  |  |
 
 ## Running it
 
