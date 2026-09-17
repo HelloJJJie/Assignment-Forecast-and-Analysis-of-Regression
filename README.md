@@ -9,20 +9,6 @@ September – December 2026. One folder per session: `week-1`, `week-2`, …
 |---|---|---|
 | `week-1` | Simple linear regression and inference | Salary vs. years of experience, *n* = 30 |
 
-## week-1
-
-`L1_simple_linear_regression_salary.ipynb` follows Kutner et al. (2005), Ch. 1–2: least
-squares estimation, inference on $\beta_1$, confidence vs. prediction intervals, ANOVA and
-the *F* test, $R^2$, and residual diagnostics. Each quantity is computed from its formula
-and cross-checked against `statsmodels` OLS.
-
-$$\hat{Y} = 25{,}792.20 + 9{,}449.96\,X$$
-
-| $s\{b_1\}$ | 95 % CI for $\beta_1$ | $t^*$ | $F^*$ | $R^2$ |
-|---|---|---|---|---|
-| 378.75 | [8 674, 10 226] | 24.95 | 622.51 | 0.957 |
-
-`week-1-presentation.pdf` — session presentation.
 
 ## Running it
 
@@ -43,4 +29,4 @@ M. H. Kutner, C. J. Nachtsheim, J. Neter and W. Li, *Applied Linear Statistical 
 
 ## Team
 
-*[names]*
+Marek Adam, Jie Dong, Elivier Reyes
