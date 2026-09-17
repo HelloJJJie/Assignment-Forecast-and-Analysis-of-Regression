@@ -8,12 +8,18 @@ September – December 2026. One folder per session: `week-1`, `week-2`, …
 | Folder | Topic | Data |
 |---|---|---|
 | `week-1` | Simple linear regression and inference | Salary vs. years of experience, *n* = 30 |
+| `week-2` |  |  |
+| `week-3` |  |  |
+| `week-4` |  |  |
+| `week-5` |  |  |
+| `week-6` |  |  |
+| `week-7` |  |  |
 
 
 ## Running it
 
 ```bash
-cd week-1
+cd week-xx
 python3 -m venv .venv
 .venv/bin/pip install numpy pandas scipy statsmodels matplotlib jupyter
 .venv/bin/jupyter lab
