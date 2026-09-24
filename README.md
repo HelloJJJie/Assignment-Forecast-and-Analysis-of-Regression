@@ -1,4 +1,4 @@
-# Forecasting and Regression Analysis
+# Assignments of Forecasting and Regression Analysis
 
 Coursework for **IN6049**, School of Engineering and Sciences, Tecnológico de Monterrey,
 September – December 2026. One folder per session: `week-1`, `week-2`, …
