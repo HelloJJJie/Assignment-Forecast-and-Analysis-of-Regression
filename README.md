@@ -3,22 +3,6 @@
 Coursework for **IN6049**, School of Engineering and Sciences, Tecnológico de Monterrey,
 September – December 2026. One folder per session: `week-1`, `week-2`, …
 
-## Contents
-
-| Folder | Topic | Data |
-|---|---|---|
-| `week-1` | Simple linear regression and inference | Salary vs. years of experience, *n* = 30 |
-| `week-2` |  |  |
-| `week-3` |  |  |
-| `week-4` |  |  |
-| `week-5` |  |  |
-| `week-6` |  |  |
-| `week-7` |  |  |
-| `week-8` |  |  |
-| `week-9` |  |  |
-| `week-10` |  |  |
-| `week-11` |  |  |
-| `week-12` |  |  |
 
 ## Running it
 
@@ -39,4 +23,4 @@ M. H. Kutner, C. J. Nachtsheim, J. Neter and W. Li, *Applied Linear Statistical 
 
 ## Team
 
-Marek Adam, Jie Dong, Elivier Reyes
+Jie Dong, Elivier Reyes
